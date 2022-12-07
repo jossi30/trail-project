@@ -1,0 +1,33 @@
+
+#title{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 3%;
+}
+
+#image{
+    width: 550px;
+    height: 400px;
+    padding-top: 2%;
+    margin-left: 30%;
+    display: block;
+    }
+    #tagline{
+        font-size: small;
+        font-style: italic;
+    }
+    #img-caption{
+       text-align: center;
+    }
+    #tribute-info
+    { 
+        font-size:larger;
+        text-align: center;
+
+    }
+    #tribute-link{
+        font-size:larger;
+        text-align: center;
+    }
